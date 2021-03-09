@@ -1,0 +1,6 @@
+tempCodeRunnerFile.py
+*.pyc
+__pycache__/
+__pycache__/JetbotPy.cpython-37.pyc
+.vscode/
+*.pth 
